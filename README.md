@@ -24,7 +24,8 @@ File integrity checking is a foundational concept in cybersecurity. This project
 
 ## 📸 Screenshot
 
-![screenshot](screenshot.png)  
+![image](https://github.com/user-attachments/assets/f3069c4d-054e-46e9-a0ff-5f5fef3e85e6)
+  
 *A simple interface for secure file validation.*
 
 ---
