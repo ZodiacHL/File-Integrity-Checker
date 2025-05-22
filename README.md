@@ -9,7 +9,7 @@ A simple Python GUI tool that allows users to verify file integrity using SHA-25
 - 📂 Select any file using a file dialog
 - 🔐 Generate a secure SHA-256 hash of the file
 - 💾 Save the generated hash to a `.txt` file
-- ✅ Easily check for file tampering by comparing stored hashes (coming soon)
+- ✅ Easily check for file tampering by comparing stored hashes
 
 ---
 
